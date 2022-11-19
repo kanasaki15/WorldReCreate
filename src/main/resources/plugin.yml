@@ -1,0 +1,11 @@
+name: WorldReCreate
+version: '${version}'
+main: xyz.n7mn.dev.worldrecreate.WorldReCreate
+api-version: 1.19
+loadbefore: [ Itemhunt ]
+authors: [ 7mi_chan ]
+description: WorldReCreate
+website: https://twitter.com/7mi_network
+commands:
+  rc:
+    permission: worldrecreate.command
